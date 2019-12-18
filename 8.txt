@@ -1,0 +1,19 @@
+前情回顾
+1. 进程对象的属性
+   pid   daemon
+
+2. 自定义进程类
+   继承Process
+   重写__init__()和run()
+
+3. 进程池
+   Pool()
+   apply_async()
+   close()
+   join()
+
+4. 消息队列
+
+   Queue()  q.put()  q.get()
+
+5. 线程
